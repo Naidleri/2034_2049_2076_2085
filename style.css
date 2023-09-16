@@ -237,4 +237,7 @@ html, body {
   border: none;
 	padding:16px 43px;
 }
+.mybutton:hover {
+  background-image:linear-gradient( #151428,#151428)  ;
+}
 
