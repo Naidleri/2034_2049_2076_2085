@@ -235,7 +235,7 @@ html, body {
 	font-family:Arial;
 	font-size:18px;
   border: none;
-	padding:16px 43px;
+	padding:16px 43px; 
 }
 .mybutton:hover {
   background-image:linear-gradient( #151428,#151428)  ;
